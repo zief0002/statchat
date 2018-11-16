@@ -1,7 +1,40 @@
 ---
-title: "About me"
+title: "About Stat Chat"
 ---
 
-## Header
+Stat Chat is an informal but informative get-together of local statistics educators. 
 
-Say more about you here.
+<br /><br />
+
+## Current Organizers
+
+Stat Chat is currently being organized by [Alicia Johnson](mailto:ajohns24@macalester.edu?subject=Stat Chat) (Macalester College), [Laura Le](mailto:free0312@umn.edu?subject=Stat Chat) (University of Minnesota), and [Andrew Zieffler](mailto:zief0002@umn.edu?subject=Stat Chat) (University of Minnesota).
+
+<br /><br />
+
+<div style="width:100%; font-size:70%; text-align:center;">
+<img src="img/johnson.jpg"/ style>
+<img src="img/le.jpg" />
+<img src="img/zieffler.jpg" />
+<p>Alicia Johnson (left), Laura Le (center), and Andrew Zieffler (right)</p>
+</div>
+
+
+<br /><br />
+
+## Original Organizers
+
+Stat Chat was originally conceived by Joan Garfield (University of Minnesota), Danny Kaplan (Macalester College), and Julie Legler (St. Olaf) circa 2005.
+
+<br /><br />
+
+<div style="width:100%; font-size:70%; text-align:center;">
+<img src="img/garfield.jpg"/ style>
+<img src="img/kaplan.jpg" />
+<img src="img/legler.jpg" />
+<p>Joan Garfield (left), Danny Kaplan (center), and Julie Legler (right)</p>
+</div>
+
+
+
+

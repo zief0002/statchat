@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Past Chats</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="stat_chat.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Stat Chat</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="about.html">
+    <span class="far fa far fa-address-card"></span>
+     
+    About
+  </a>
+</li>
+<li>
+  <a href="past-meetings.html">
+    <span class="fab fa fab fa-fort-awesome"></span>
+     
+    Past Chats
+  </a>
+</li>
+<li>
+  <a href="https://zief0002.github.io/blog/">
+    <span class="fa fa-rss"></span>
+     
+    Blog
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="mailto:zief0002@umn.edu">
+    <span class="fa fa-envelope-o"></span>
+     
+    Contact me
+  </a>
+</li>
+<li>
+  <a href="https://github.com/zief0002/statchat">
+    <span class="fa fa-github"></span>
+     
+    GitHub
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Past Chats</h1>
+
+</div>
+
+
+<p>This is an archive of information/links from past Stat Chat meetings.</p>
+<p><br /><br /></p>
+<div id="season-year-12" class="section level2">
+<h2>2018–2019 Season (Year 12)</h2>
+<p><br /></p>
+<div id="november-14-2018" class="section level4">
+<h4>November 14, 2018</h4>
+<p>As we haven’t met in quite some time, this meeting will be quite informal—meeting new friends, catching up, and ad hoc sharing of what is happening in your statistics/data science classroom. We will also use the time to plan the dates and agendas for future Stat Chats. If you can, please bring a snack or beverage to share.</p>
+<ul>
+<li><strong>Location:</strong> Olin-Rice Hall (Room 243) on the Macalester Campus [map]</li>
+<li><strong>Day:</strong> Wednesday November 14, 2018</li>
+<li><strong>Time:</strong> 6:00–8:00pm</li>
+<li><strong>Parking:</strong> There is a free parking lot (off of Snelling Avenue) adjacent to Olin-Rice.</li>
+</ul>
+<p><br /><br /></p>
+</div>
+</div>
+<div id="season-year-6" class="section level2">
+<h2>2011–2012 Season (Year 6)</h2>
+<p><br /></p>
+<div id="october-28-2011" class="section level4">
+<h4>October 28, 2011</h4>
+<ul>
+<li><strong>Speaker:</strong> Xiao-Li Meng (Harvard University)</li>
+<li><strong>Topic:</strong> Statistical Education and Educating Statisticians: Producing Wine Connoisseurs and Master Winemakers</li>
+</ul>
+<blockquote>
+<p>Xiao-Li will talk about his innovative course in intro stats as well as his program to prepare excellent teachers of statistics. Following the talk, you are invited to stay on and visit with Xiao-Li as part of an informal social hour with our statistics education faculty and graduate students.</p>
+</blockquote>
+<ul>
+<li><a href="http://www.stat.harvard.edu/Academics/invitation_chair_txt.html">Stat 105</a> at Harvard</li>
+</ul>
+<p><br /></p>
+</div>
+<div id="january-20-2012" class="section level4">
+<h4>January 20, 2012</h4>
+<ul>
+<li><strong>Speaker:</strong> Charles Guyer (University of Minnesota, School of Statistics)</li>
+<li><strong>Topic:</strong> What Statistics 101 Doesn’t Teach, But Should</li>
+</ul>
+<p><br /></p>
+</div>
+<div id="february-24-2012" class="section level4">
+<h4>February 24, 2012</h4>
+<p>Sponsored jointly by StatChat and Project MOSAIC</p>
+<ul>
+<li><strong>Speaker:</strong> Michael Bulmer (University of Queensland, Australia)</li>
+<li><strong>Topic:</strong> The Island: Letting Students Experiment and Collect Data</li>
+</ul>
+<p>Access the <a href="http://www.mosaic-web.org/go/MCAST/videos/MCAST-2012-02-24/lib/playback.html">Webinar Recording</a> here.</p>
+<p><br /></p>
+</div>
+<div id="march-8-2012" class="section level4">
+<h4>March 8, 2012</h4>
+<ul>
+<li><strong>Dessert Activity:</strong> The Omnipresence of Coincidence (Milo Schield; Augsburg University)</li>
+</ul>
+<blockquote>
+<p>Coincidence is much more likely than expected, leading many people to conclude that there is something more going on than “mere” coincidence. Educators often see this differently, and ponder how to lead students to a more accurate idea of “expected.” I’ll describe some spreadsheets to make the unseen more visible and help students challenge and develop their notion of “expected”. The spreadsheets demonstrate runs with coins, linear and non-linear clusters in a two-dimensional grid, and the Birthday problem.</p>
+</blockquote>
+<ul>
+<li><p><strong>Journal Club:</strong> Arnold, P., Pfannkuch, M., Wild, C., Regan, M., Budgett, S. (2011) <a href="http://jse.amstat.org/v19n2/pfannkuch.pdf">Enhancing atudents’ inferential reasoning: From hands-on to “movies”</a>. <em>Journal of Statistics Education, 19</em>(2).</p></li>
+<li><strong>Speaker:</strong> Rob Gould (UCLA)</li>
+<li><p><strong>Topic:</strong> Educating Citizen Statisticians</p></li>
+</ul>
+<blockquote>
+<p>What do we want out students to learn in an introductory statistics course? Historically, the answers have ranged from “How to compute …” to “How to read the newspaper” to “How to analyze data” to “It depends on who the students are.” Most of these discussions took place in a context in which data were hard to come by and statistical analysis tools were expensive. But today we live in a world where data are ubiquitous and anyone with an internet connection can analyze data. In this new data-driven world, I will argue that there is a core curriculum needed by all students, regardless of major and that the purpose of this core is to teach them to be Citizen Statisticians. We’ll discuss how the new textbook I wrote with Colleen Ryan, Introductory Statistics: Exploring The World Through Data, was written to provide a core statistics education to all students regardless of background or mathematical preparation.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="may-7-2012" class="section level4">
+<h4>May 7, 2012</h4>
+<ul>
+<li><strong>Speaker:</strong> Allan Rossman (Cal-Poly)</li>
+</ul>
+<p><br /></p>
+</div>
+<div id="may-9-2012" class="section level4">
+<h4>May 9, 2012</h4>
+<p>Joint meeting of StatChat and the Twin Cities chapter of the American Statistical Association.</p>
+<ul>
+<li><strong>Guest Speaker:</strong> Daniel Kaplan (Macalester College)</li>
+<li><strong>Topic:</strong> Recent U.S. Supreme Court Finding on Statistical Significance</li>
+</ul>
+<blockquote>
+<p>“Supreme Court decisions famously reflect political divides, but they also are a product of the multiple simultaneous objectives of the legal system: creating incentives for honest behavior, distributing risk and cost among competing parties, and maintaining predictability, among others. Statistical theory was created for a completely different set of objectives, of which a major one is supporting an idealized scientific process of nonpartisan, disinterested investigation. The Matrixx case inhabits a domain where both sets of objectives apply: the desire for informed scientific judgment and the exigencies and conflicts of civic life. Whenever multiple objectives are involved, it’s likely that not all of the objectives will be fully realized. Or, to quote Dickens’s Mr. Bumble,”The law is an ass.&quot; The question is whether statistics is likely to be any less so when dealing with complex matters of allocation and decision-making. I’ll discuss in particular the extent to which the canonical set of topics covered in university-level statistics education is oriented toward supporting quantitatively sophisticated, effective decision making in the civic domain.</p>
+</blockquote>
+<p><br /><br /></p>
+</div>
+</div>
+<div id="season-year-4" class="section level2">
+<h2>2010–2011 Season (Year 4)</h2>
+<p><br /></p>
+<div id="sept.28-2010" class="section level4">
+<h4>Sept. 28, 2010</h4>
+<ul>
+<li><strong>Journal Club:</strong>
+<ul>
+<li>Wieman, C. (2009). <a href="https://www.science20.com/carl_wieman/why_not_try_scientific_approach_science_education">Why not try a scientific approach to science education?</a> [Blog].</li>
+<li>Wieman, C. (2009). <a href="https://www.science20.com/carl_wieman/scientific_approach_science_education_research_learning">A scientific approach to science education—Research on learning</a>. [Blog]. Wieman, C. (2009). <a href="https://www.science20.com/carl_wieman/scientific_approach_science_education_reducing_cognitive_load">A scientific approach to science education—Reducing cognitive load</a>. [Blog]. Wieman, C. (2009). <a href="https://www.science20.com/carl_wieman/scientific_approach_science_education_beliefs_guided_thinking_and_technology">A scientific approach to science education—Beliefs, guided thinking, and technology</a>. [Blog]. Wieman, C. (2009). <a href="https://www.science20.com/carl_wieman/scientific_approach_science_education_technology_and_institutional_change">A scientific approach to science education—Technology and institutional change</a>. [Blog].</li>
+</ul></li>
+<li><strong>Speaker:</strong> Chad Topaz (Macalester College)</li>
+<li><strong>Topic:</strong> Teaching with Blogs</li>
+</ul>
+<blockquote>
+<p>Personal response system (PRS) clickers are small, handheld electronic devices that students use to respond to instructor-posed questions in class. Blogs are online diaries that students can use to chronicle their learning outside of the classroom. I will discuss some pedagogical and technological aspects of using blogs and clickers to support student learning in quantitatively-focused courses. I will also connect clicker and blog pedagogy to two learning science frameworks, namely the four “centrisms” of Bransford et al., and the revision of Bloom’s taxonomy by Anderson and Krathwohl.</p>
+</blockquote>
+<ul>
+<li>Higdon, J., &amp; Topaz, C. (2009) <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/September/ht2009.pdf">Blogs and wikis as instructional tools</a>. <em>College Teaching, 57</em>(2), 105–109.</li>
+</ul>
+<p><br /></p>
+</div>
+<div id="oct.26-2010" class="section level4">
+<h4>Oct. 26, 2010</h4>
+<ul>
+<li><strong>Journal Club:</strong> Kuiper, S., &amp; Collins, L. (2009) <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/October/games.pdf">Guided labs that introduce statistical techniques used in research from multiple disciplines</a>. <em>The American Statistician, 63</em>(4), 343–347.</li>
+<li><strong>Stat-o-Lanterns:</strong> Presentation of this year’s Stat-o-Lanterns! Bring your own statistical squash, likelihood lantern, jacknife jack-o-lantern, or probability pumpkin!</li>
+</ul>
+<div style="width:100%; font-size:70%; text-align:right;">
+<img src="img/stat-o-lantern.png" alt="Stat-o-Lanterns" style="width:100%;padding-bottom:0.5em;">
+<p style="margin-right:20px;">
+<i>Image credit:</i> Photos of previous years’ Stat-o-Lanterns thanks to Michael Huberty.
+</p>
+</div>
+<ul>
+<li><strong>Speaker:</strong> Chad Topaz (Macalester College)</li>
+<li><strong>Topic:</strong> Teaching with Clickers</li>
+</ul>
+<blockquote>
+<p>Personal response system (PRS) clickers are small, handheld electronic devices that students use to respond to instructor-posed questions in class. I will discuss some pedagogical and technological aspects of using clickers to support student learning in quantitatively-focused courses.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="nov.30-2010" class="section level4">
+<h4>Nov. 30, 2010</h4>
+<ul>
+<li><strong>Speaker:</strong> Bob delMas (University of Minnesota, Educational Psychology)</li>
+<li><strong>Topic:</strong> Applets in R</li>
+</ul>
+<blockquote>
+<p>You can create small, interactive programs in R. I’ll show two of these. Rates Beat Humans simulates a guessing game from a psychology study. Another, which I’ll call With or Without Replacement? That is the Question, is designed to help students understand the distinction between sampling with and without replacement, as well as when they are used. I will also demonstrate two GUIs (graphical user interfaces): one for conducting randomization tests and the other for estimating bootstrap confidence intervals.</p>
+</blockquote>
+<ul>
+<li><strong>Speaker:</strong> Josh Paulson (RStudio)</li>
+<li><strong>Topic:</strong> R-Studio: Delivering R through a Web Browser</li>
+</ul>
+<blockquote>
+<p>R-Studio lets you interact with R through a standard web browser. It allows you to move easily from one computer to another without losing your place, and provides other user-friendly features. The beta version is being used at several colleges and universities across the country. I’ll talk about the applications to teaching to making R more accessible.</p>
+</blockquote>
+<ul>
+<li><strong>Speaker:</strong> Danny Kaplan (Macalester College)</li>
+<li><strong>Topic:</strong> Teaching Calculus with R</li>
+</ul>
+<blockquote>
+<p>It’s likely that you have two immediate reactions to the title. (1) R is for statistics, not calculus. If you’re going to use software at all for calculus — and it’s not clear that you should — you should use a symbolic algebra package like Mathematica or Maple. (2) I don’t teach (or study or use) calculus, so why should I care? In fact, it is more or less a historical accident that calculus is taught through algebra. In the late 1600s through 1900, that was the only technology that was available. The basic techniques of calculus — differentiation and integration — have no intrinsic relationship to the algebraic techniques. It’s perfectly reasonable to present them entirely as simple software operations. And why you should care? Many of your mathematical ideas were formed by the calculus-oriented high-school curriculum that you went through. In those high-school years, you were drilled with algebraic and symbolic techniques. So you’re good with algebra, even though you may rarely use it. Seeing how to represent and perform those operations with software can help you to develop general computational concepts and skills.</p>
+</blockquote>
+<ul>
+<li><strong>Discussion:</strong> Why have an R Users’ Group? What can it do for me?</li>
+</ul>
+<p><br /></p>
+</div>
+<div id="jan.25-2011" class="section level4">
+<h4>Jan. 25, 2011</h4>
+<ul>
+<li><p><strong>Journal Club:</strong> Seife, C. (2010). <em>Proofiness: The dark art of mathematical deception.</em> New York: Viking.</p></li>
+<li><strong>Speaker:</strong> Katie St Clair (St. Olaf)</li>
+<li><p><strong>Topic:</strong> Team-Based Learning</p></li>
+</ul>
+<blockquote>
+<p>Team-based learning (TBL) is a pedagogical strategy that involves groups of students working together in teams to learn and apply the course concepts. I will give an overview of TBL principles and talk about how we’ve used TBL in our stat literacy class at Carleton.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="feb.22-2011" class="section level4">
+<h4>Feb. 22, 2011</h4>
+<ul>
+<li><p><strong>Journal Club:</strong> Cobb, G. (2007). <a href="https://escholarship.org/uc/item/6hb3k0nz">The introductory statistics course: A Ptolemaic curriculum?</a> <em>Technology Innovations in Statistics Education, 1</em>(1).</p></li>
+<li><strong>Speaker:</strong> Joan Garfield, Robert delMas, Laura Le, Rebekah Isaak, Laura Ziegler, and Andy Zieffler (University of Minnesota, Educational Pyschology)</li>
+<li><p><strong>Topic:</strong> The CATALST Course</p></li>
+</ul>
+<blockquote>
+<p>CATALST is an NSF-funded project that has created a curriculum designed to develop students’ statistical thinking and appreciation of statistics through a focus on modeling, simulation and inference. The CATALST curriculum is currently being taught in several sections of undergraduate-level statistics at the University of Minnesota and at NC State. We will share an overview of the curriculum, as well as a sample of class activities used in the course. Specifically, an activity used to introduce the randomization test for group inferences will be shared. The software TinkerPlots, which is used by students in the course to conduct the modeling and simulation, will also be demonstrated.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="mar.29-2011" class="section level4">
+<h4>Mar. 29, 2011</h4>
+<ul>
+<li><p><strong>Journal Club:</strong> Bellos, A. (2010). <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/March/Ch10-Bellos-Euclid.pdf">Situation normal</a>. In, <em>Here’s looking at Euclid: From counting ants to games of chance - An awe-inspiring journey through the world of numbers</em> (pp. 246–265). New York: Free Press.</p></li>
+<li><strong>Speaker:</strong> Robin Lock (St. Lawrence University)</li>
+<li><p><strong>Topic:</strong> Starting Inference with Bootstraps and Randomizations</p></li>
+</ul>
+<blockquote>
+<p>Computer-intensive methods such as bootstrapping and randomization tests provide a way to introduce students to fundamental ideas of statistical inference that require relatively few prerequisites. I’ll discuss an ongoing project to revamp an introductory course to use such methods as the starting point for inference.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="april.-26-2011" class="section level4">
+<h4>April. 26, 2011</h4>
+<ul>
+<li><strong>Journal Club:</strong> The Math-Stats Course. Some questions: What should be the goal of the math stats course? What topics are essential?
+<ul>
+<li>TOC from Larsen and Marx, <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/April/TOC_LarsenMarx.pdf">An Introduction to Mathematical Statistics</a></li>
+<li>TOC from Chihara and Hesterberg, <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/April/TOC_Wiley2011.02.07.pdf">Mathematical Statistics with Resampling and R</a></li>
+</ul></li>
+<li><strong>Speaker:</strong> Milo Schield (Augsburg University)</li>
+<li><strong>Topic:</strong> Models and Assumptions: Statistics and Assembly</li>
+</ul>
+<blockquote>
+<p>Checking assumptions is a critical activity in modeling. Often times the assumptions used in analyzing data influence – if not determine – the results. I’ll discuss an ISI draft paper that argues that statistics have the same status as models – they involve choices in assembly that influence – if not determine – the results. One of the five elements of the AACU 2009 Quantitative Literacy Rubric was assumptions: “Ability to make and evaluate important assumptions in estimation, modeling, and data analysis.” The ISI paper extends this focus on assumptions to include the formation of categories, measures and summary statistics. While statistics may have little to say about which assumptions are best, statistical literacy can highlight how choices in how groups are defined or how quantities are measured can influence the results.</p>
+</blockquote>
+<ul>
+<li><strong>Speaker:</strong> Marc Isaacson (Augsburg University)</li>
+<li><strong>Topic:</strong> USCOTS Theater-Teaching Activity: Multiple choice Olympic Success</li>
+</ul>
+<blockquote>
+<p>This activity incorporates audience involvement to evaluate data from Olympic Competition results through the use of rankings. While rankings are commonly encountered by students in their everyday life, they are rarely discussed in an introductory statistics class. Audience members will be presented a handout, a single question and then asked to respond via text message or smartphone. Results will be collected via the internet and discussed instantaneously with an interesting twist.</p>
+</blockquote>
+<ul>
+<li><strong>Speaker:</strong> Milo Schield (Augsburg University)</li>
+<li><strong>Topic:</strong> USCOTS Theater-Teaching Activity: Where do Statistics come from?</li>
+</ul>
+<blockquote>
+<p>This activity incorporates audience involvement to compare related rates or percentages. Central question: Where do statistics come from; how are they assembled; what difference do their definitions make in their size or in the size of their association?</p>
+</blockquote>
+<p><br /><br /></p>
+</div>
+</div>
+<div id="season-year-5" class="section level2">
+<h2>2009–2010 Season (Year 5)</h2>
+<p><br /></p>
+<div id="september-29-2009" class="section level4">
+<h4>September 29, 2009</h4>
+<ul>
+<li><strong>Data Dessert:</strong> Internet flavor (Julie Legler)</li>
+<li><p><strong>Journal Club:</strong> Moore, D. (1995) <a href="http://www.stat.purdue.edu/~dsmoore/articles/Craft.pdf">The craft of teaching</a>. <em>MAA Focus, 15</em>(2), 5–8.</p></li>
+<li><strong>Speaker:</strong> Andy Zieffler (University of Minnesota, Educational Psychology)</li>
+<li><p><strong>Talk:</strong> A Brief Illustrated History of Statistics Education</p></li>
+</ul>
+<p><br /></p>
+</div>
+<div id="october-27-2009" class="section level4">
+<h4>October 27, 2009</h4>
+<ul>
+<li><p><strong>Journal Club:</strong> Gould, R. (2004). <a href="https://escholarship.org/uc/item/4fm9w47f">Variability: One statistician’s view</a>. <em>Statistics Education Research Journal, 3</em>(2), 7–16.</p></li>
+<li><strong>Speaker:</strong> George Cobb (Mount Holyoke)</li>
+<li><p><strong>Talk:</strong> Drug Deals and Jury Wheels: Probability and Statistics Go to Court</p></li>
+</ul>
+<blockquote>
+<p>In the case of US v. Shine et al., federal prosecutors in Burlington, Vermont wanted to send to jail a dozen accused drug dealers, all of them members of racial minorities. The defense team claimed that the citizens chosen to serve on the grand juries that had indicted the dozen accused dealers had been chosen using a jury selection method that was racially biased. If true, the legal rights of the accused under the US Constitution would have been violated, which would mean that they should be set free. The case involved a variety of issues, all statistical or mathematical, and so I was asked by the prosecutors to testify about these issues. In my talk I’ll describe one particularly simple mathematical problem that figured prominently in the case, and illustrate two different ways to think about it. For me, these two ways exemplify two very general strategies for solving mathematical problems.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="november-24-2009" class="section level4">
+<h4>November 24, 2009</h4>
+<ul>
+<li><strong>Short Report:</strong> Project SENCER (Cindy Kaus; Metro State)</li>
+<li><p><strong>Journal Club:</strong> Brown, E., &amp; Kass, R. (2009). <a href="">What is statistics?</a>. <em>The American Statistician 63</em>(2), 105–110.</p></li>
+<li><strong>Speaker:</strong> Victor Addona (Macalester College)</li>
+<li><p><strong>Talk:</strong> A Course on Statistical Analysis of Sports and Games</p></li>
+</ul>
+<p>Victor will describe the course he is teaching this semester to first-year students. Here is the course description:</p>
+<blockquote>
+<p>In this course, we learn about the core descriptive, probabilistic, and inferential methods used in statistics. These topics will be motivated by using real data from a variety of sports. Quantitative analysis of sports data has become a serious research field. Baseball was the first North American sport to be studied by statisticians. The term coined by Bill James for this field, “sabermetrics”, is widely recognized in the statistical community, and many professional sports teams now employ academic statisticians to help them gain an advantage over the competition. The acceptance of sabermetrics (aided by the popularity of books like Moneyball) has led to quantitative research in other sports, as objective decision making continues to replace the haphazard “gut feelings” used in the past. The plethora of examples that are sports related are not restricted to “traditional” sports data. For example, we will discuss data on the graduation rates, and birthdays(!), of athletes. As we will see, at the core of this course is a desire to answer questions of interest in impartial and meaningful ways. Ultimately, this is a statistics course, so we learn about different methods used to analyze data. But we will not lose sight of the fact that, in statistics, the final analysis is only one aspect of the process used to answer questions. For example, measurement issues are a crucial, but often overlooked, piece of the puzzle: What metric(s) should we use to decide which of two players is better? How do we assess strategies in a game?</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="january-26-2010" class="section level4">
+<h4>January 26, 2010</h4>
+<ul>
+<li><strong>Resources on the Web:</strong> <a href="http://www.socr.ucla.edu/SOCR.html">Statistics Online Computational Resource</a> (Bob delMas; University of Minnesota, Educational Psychology)</li>
+<li><p><strong>Journal Club:</strong> Cobb, G. W., &amp; Moore, D. S. (1997). <a href="https://www.macalester.edu/~kaplan/statchat/2009-2010-year/2010-01/January-2010.pdf">Mathematics, statistics, and teaching</a>. <em>American Mathematical Monthly, 104</em>(9), 801–823.</p></li>
+<li><strong>Speaker:</strong> Danny Kaplan (Macalester College)</li>
+<li><p><strong>Talk:</strong> Hypothesis Testing: What’s the Alternative?</p></li>
+</ul>
+<blockquote>
+<p>I know, you’re thinking this is going to be a session about Bayesian inference. But it’s just good ol’ hypothesis testing. In looking through standard statistics texts and comparing what they say to what I do in my introductory classes, I’ve been struck by the very limited role that the alternative hypothesis plays. The alternative seems to be entirely about whether to do a one-sided or two-sided test, and is written in very abstract terms, e.g., Ha : p &gt; 0.5. In my classes, I have the students work with very specific alternative hypotheses, e.g., p = 0.70. This has several advantages. It makes it clearer to the student that both the null and the alternative are ‘hypotheticals’, statements about world that might or might not be true. It also relates statistical practice more closely to scientific practice, where a person designing a study has to think about how big is the effect he or she is looking for. This leads directly to calculations of sample size and power. I’ll show some settings in which I have students do these calculations.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="february-23-2010" class="section level4">
+<h4>February 23, 2010</h4>
+<ul>
+<li><p><strong>Journal Club:</strong> Lovett, M., &amp; Greenhouse, J. (2000). <a href="https://www.macalester.edu/~kaplan/statchat/2009-2010-year/2010-02/LovettGreenhouse.pdf">Applying cognitive theory to statistics instruction</a>. <em>The American Statistician, 54</em>(3), 1–11.</p></li>
+<li><strong>Speaker:</strong> Sandra J. Moen (3M)</li>
+<li><p><strong>Talk:</strong> Teaching Experimental Design with a Paper Helicopter</p></li>
+</ul>
+<blockquote>
+<p>To paraphrase George Box, “All toys are fun; some toys are useful.” The speaker “played” with helicopters in her graduate-school days when she worked for Prof. Box as a graduate assistant one year, and since then she has used them in statistics classes at 3M with good success with both technically-minded and not-so-technically-minded students. Drawing on Box’s article from 1991, Teaching Engineers Experimental Design with a Paper Helicopter, there will be a brief introduction to the problem, presentation of a few ideas of how to incorporate it as an exercise in class to illustrate different types of statistical tools and questions, and then it’s flight time! Try it out for yourself.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="march-23-2010" class="section level4">
+<h4>March 23, 2010</h4>
+<ul>
+<li><p><strong>Journal Club:</strong> Sotos, A. E. C., Vanhoof, S., Van Den Noortgate, W., &amp; Onghene, P. (2009). <a href="https://www.stat.auckland.ac.nz/~iase/serj/SERJ8(2)_Sotos.pdf">The transitivity misconception of Pearson’s correlation coefficient</a>. <em>Statistics Education Research Journal, 8</em>(2), 33–55.</p></li>
+<li><strong>Speaker:</strong> Paul Alper (University of St. Thomas)</li>
+<li><p><strong>Talk:</strong> Hypothesis Testing: What’s the (Other) Alternative</p></li>
+</ul>
+<blockquote>
+<p>Drawing on a concrete example from the paper by Michael Lavine, What is Bayesian Statistics and Why Everything Else is Wrong, Paul will review the areas of conflict and alignment between the Bayesian and hypothesis-testing paradigms.</p>
+</blockquote>
+<p><br /></p>
+</div>
+<div id="april-27-2010" class="section level4">
+<h4>April 27, 2010</h4>
+<ul>
+<li><strong>Journal Club:</strong>
+<ul>
+<li>Pfaff, T., &amp; Weinberg, A. (2009). <a href="http://jse.amstat.org/v17n3/pfaff.pdf">Do hands-on activities increase student understanding?: A case study</a>. <em>Journal of Statistics Education, 17</em>(3).</li>
+<li>Weltman, D., &amp; Whiteside, M. (2010). <a href="http://jse.amstat.org/v18n1/weltman.pdf">Comparing the effectiveness of traditional and active learning methods in business statistics: Convergence to the mean</a>. <em>Journal of Statistics Education, 18</em>(1).</li>
+</ul></li>
+<li><p><strong>Internet Resources:</strong> Life on an Island - A Simulated Population for Learning Statistical Reasoning (Michael Bulmer; University of Queensland, Australia)</p></li>
+<li><strong>Speaker:</strong> Michelle Everson (University of Minnesota, Educational Psychology)</li>
+<li><p><strong>Talk:</strong> Creating Web Applets from In-Class Activities to Foster Active Learning in the Online Statistics Classroom</p></li>
+</ul>
+<blockquote>
+<p>In a classroom setting, students can engage in hands-on activities in order to better understand certain concepts and ideas. Replicating hands-on activities in an online environment, however, can be a challenge for instructors. Recently, at the University of Minnesota, we created two web applets to incorporate into our undergraduate online introductory statistics courses, and these applets are meant to provide opportunities for students to engage in the kinds of activities commonly used in comparable classroom sections. One applet goes along with an activity where students use Post-it Notes in an effort to develop a more conceptual understanding of the mean and the median, and the other applet is meant to replicate aspects of the famous “Gummy Bears in Space” activity (presented in Schaeffer, Gnanadesikan, Watkins &amp; Witmer, 1996). This talk will focus on the development of these applets and the ways in which the applets are currently used in our online courses.</p>
+</blockquote>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
