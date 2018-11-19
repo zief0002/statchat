@@ -1,5 +1,5 @@
 ---
-title: "Stat Chat"
+title: "StatChat"
 author: "An informal but informative get-together of local statistics educators in the Twin-Cities"
 ---
 
@@ -9,7 +9,7 @@ author: "An informal but informative get-together of local statistics educators 
 
 ## Upcoming Meeting
 
-Our next Stat Chat will be on Wedesday January 30, 2019 from 6:00--8:00pm at Macalester College (room TBA). The agenda for the meeting will include:
+Our next StatChat will be on Wedesday January 30, 2019 from 6:00--8:00pm at Macalester College (room TBA). The agenda for the meeting will include:
 
 - **Book Club Discussion:** Danny Kaplan and Milo Schield will lead a discussion of the first two chapters of *The Book of Why* (see below for more information). 
 - **Material Potluck:** Someone (TBA) will share some teaching materials (e.g., data set, activity) with the group.
@@ -18,7 +18,7 @@ Our next Stat Chat will be on Wedesday January 30, 2019 from 6:00--8:00pm at Mac
 
 ## Book Club 2019
 
-During the 2019 spring semester, Stat Chat will be reading and discussing *The Book of Why: The New Science of Cause and Effect* by Judea Pearl and Dana Mackenzie.
+During the 2019 spring semester, StatChat will be reading and discussing *The Book of Why: The New Science of Cause and Effect* by Judea Pearl and Dana Mackenzie.
 
 > "Correlation is not causation." This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs The Book of Why.
 

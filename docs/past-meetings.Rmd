@@ -2,7 +2,7 @@
 title: "Past Chats"
 ---
 
-This is an archive of information/links from past Stat Chat meetings.		
+This is an archive of information/links from past StatChat meetings.		
 
 <br /><br />
 
@@ -12,7 +12,7 @@ This is an archive of information/links from past Stat Chat meetings.
 
 #### November 14, 2018
 
-As we haven't met in quite some time, this meeting will be quite informal—meeting new friends, catching up, and ad hoc sharing of what is happening in your statistics/data science classroom. We will also use the time to plan the dates and agendas for future Stat Chats. If you can, please bring a snack or beverage to share.  
+As we haven't met in quite some time, this meeting will be quite informal—meeting new friends, catching up, and ad hoc sharing of what is happening in your statistics/data science classroom. We will also use the time to plan the dates and agendas for future StatChats. If you can, please bring a snack or beverage to share.  
 
 - **Location:** Olin-Rice Hall (Room 243) on the Macalester Campus [map]
 - **Day:** Wednesday November 14, 2018

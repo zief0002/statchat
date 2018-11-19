@@ -1,7 +1,7 @@
-name: "Stat Chat"                                # CHANGE HERE 
+name: "StatChat"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Stat Chat"                             # CHANGE HERE 
+  title: "StatChat"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -13,9 +13,6 @@ navbar:
     - text: "Past Chats"
       icon: fab fa-fort-awesome
       href: past-meetings.html
-    - text: "Blog"
-      icon: fa-rss
-      href: https://zief0002.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
