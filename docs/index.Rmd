@@ -9,10 +9,13 @@ author: "An informal but informative get-together of local statistics educators 
 
 ## Upcoming Meeting
 
-Our next StatChat will be on Wedesday January 30, 2019 from 6:00--8:00pm at Macalester College (room TBA). The agenda for the meeting will include:
+Our next StatChat will be on Wedesday January 30, 2019 from 6:00--8:00pm at Macalester College (Olin Rice 243). The agenda for the meeting will include:
 
-- **Book Club Discussion:** Danny Kaplan and Milo Schield will lead a discussion of the first two chapters of *The Book of Why* (see below for more information). 
 - **Material Potluck:** Someone (TBA) will share some teaching materials (e.g., data set, activity) with the group.
+- **Book Club Discussion:** Danny Kaplan and Milo Schield will lead a discussion of *The Book of Why* (see below for more information). During this StatChat we will discuss:
+  + Introduction (pp. 1&ndash;21);
+  + Chapters 1 (pp. 23&ndash;51); and
+  + Chapter 2  (pp. 52&ndash;91)
 
 <br /><br />
 
