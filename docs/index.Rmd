@@ -11,7 +11,7 @@ author: "An informal but informative get-together of local statistics educators 
 
 Our next StatChat will be on Wedesday January 30, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
 
-- **Material Potluck:** Someone (TBA) will share some teaching materials (e.g., data set, activity) with the group.
+- **Material Potluck:** Paul Roback from St. Olaf will share some teaching materials they use in their data science course with the group. The materials can be accessed from Paul's [github site (here)](https://github.com/proback/MississippiJuries).
 - **Book Club Discussion:** Danny Kaplan and Milo Schield will lead a discussion of *The Book of Why* (see below for more information). During this StatChat we will discuss:
   + Introduction (pp. 1&ndash;21);
   + Chapters 1 (pp. 23&ndash;51); and
