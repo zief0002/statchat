@@ -9,7 +9,7 @@ author: "An informal but informative get-together of local statistics educators 
 
 ## Upcoming Meeting
 
-Our next **StatChat has been rescheduled** due to the upcoming winter vortex. The new date will be Wedesday February 13, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
+Our next **StatChat has been rescheduled** due to the [upcoming polar vortex](https://www.nytimes.com/2019/01/28/us/polar-vortex-cold-weather.html). The new date will be Wedesday February 13, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
 
 - **6:00&ndash;6:30 Settle In &amp; Eat**
 - **6:30&ndash;7:15 Material Potluck:** Paul Roback from St. Olaf will share some teaching materials they use in their data science course with the group. The materials can be accessed from Paul's [github site (here)](https://github.com/proback/MississippiJuries).
