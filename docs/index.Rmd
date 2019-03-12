@@ -7,15 +7,31 @@ author: "An informal but informative get-together of local statistics educators 
 
 <br /><br />
 
-## Upcoming Meeting
+## Upcoming March Meeting
 
 Our next StatChat is Wedesday March 27, 2019 from 6:00--8:00pm at Macalester College (Room TBA). The agenda for the meeting will include:
 
 - **6:00&ndash;6:30 Settle In &amp; Eat**
-- **6:30&ndash;7:15 Material Potluck:** TBA
-- **7:15&ndash;8:00 Book Club Discussion:** TBA
+
+- **6:30&ndash;7:15 Material Potluck:** Ann Brearley and Laura Le will present on the updated “The Islands”, a virtual world developed by Dr. Michael Bulmer at the University of Queensland. They will bring a guided activity for you to explore “The Islands” and also describe the various ways "The Islands" have been used by us and others at the University of Minnesota, Biostatistics Division. _Be sure to bring your computer so you travel to the "The Islands" from the comforts of Macalester College._ <br /><br />You may also want to read the following article for some background on "The Islands": 
+
+    + Michael Bulmer and J. Kimberly Haladyn (2011). [Life on an island: A virtual population to support student projects in statistics.](http://escholarship.org/uc/item/2q0740hv) *Technology Innovations in Statistics Education, 5*(1).<br /><br />
+
+- **7:15&ndash;8:00:** TBA
 
 We hope to see you there!  If you plan to attend, [please RSVP by signing up to bring food or beverage to share](https://docs.google.com/spreadsheets/d/1q4TlhUeY2INX64WBAyUIUniv_70Nmfs3DACRXezDbpQ/edit#gid=0).  And please spread the word among any colleagues that may be interested in the night's topics.
+
+<br /><br />
+
+
+## April Meeting
+
+The April StatChat will be Wedesday April 24, 2019 from 6:00--8:00pm at Macalester College (Room TBA). The agenda for the meeting will include:
+
+- **6:00&ndash;6:30 Settle In &amp; Eat**
+- **6:30&ndash;7:15 Material Potluck:** Amelia McNamara (St. Thomas) will present "Handmade Data Viz".
+- **7:15&ndash;8:00 Book Club Discussion:** TBA
+
 
 <br /><br />
 
