@@ -19,6 +19,40 @@ As we haven't met in quite some time, this meeting will be quite informal—meet
 - **Time:** 6:00–8:00pm
 - **Parking:** There is a free parking lot (off of Snelling Avenue) adjacent to Olin-Rice.
 
+<br />
+
+#### February 13, 2019 Meeting
+
+Our next **StatChat has been rescheduled** due to the [upcoming polar vortex](https://www.nytimes.com/2019/01/28/us/polar-vortex-cold-weather.html). The new date will be Wedesday February 13, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
+
+- **6:00&ndash;6:30 Settle In &amp; Eat**
+- **6:30&ndash;7:15 Material Potluck:** Paul Roback from St. Olaf will share some teaching materials they use in their data science course with the group. The materials can be accessed from Paul's [github site (here)](https://github.com/proback/MississippiJuries).
+- **7:15&ndash;8:00 Book Club Discussion:** Danny Kaplan and Milo Schield will lead a discussion of *The Book of Why* (see below for more information). During this StatChat we will discuss:
+  + Introduction (pp. 1&ndash;21);
+  + Chapters 1 (pp. 23&ndash;51); and
+  + Chapter 2  (pp. 52&ndash;91)
+
+**Resources**
+
+- [Paul's materials](https://github.com/proback/MississippiJuries) on discrimination in Mississippi jury selection
+- [Danny's slides](https://zief0002.github.io/statchat/book-of-why.html) on the *Book of Why*
+
+
+**Book Club 2019**
+
+During the 2019 spring semester, StatChat will be reading and discussing *The Book of Why: The New Science of Cause and Effect* by Judea Pearl and Dana Mackenzie.
+
+> "Correlation is not causation." This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs The Book of Why.
+
+Below are the links for ordering the book from Amazon and Barnes and Noble:
+
+- [Order from Amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&qid=1542294083&sr=8-1&keywords=book+of+why)
+- [Order from Barnes and Noble](https://www.barnesandnoble.com/w/the-book-of-why-judea-pearl/1127061565?ean=9780465097609#/)
+
+Also, there is an unedited working copy of the introduction and first two chapters available online at:
+
+- [Working copy](http://bayes.cs.ucla.edu/WHY/)
+
 <br /><br />
 
 

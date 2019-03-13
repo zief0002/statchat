@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -100,6 +99,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -114,7 +116,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -134,6 +135,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -155,18 +193,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -249,6 +346,40 @@ $(document).ready(function () {
 <li><strong>Time:</strong> 6:00–8:00pm</li>
 <li><strong>Parking:</strong> There is a free parking lot (off of Snelling Avenue) adjacent to Olin-Rice.</li>
 </ul>
+<p><br /></p>
+</div>
+<div id="february-13-2019-meeting" class="section level4">
+<h4>February 13, 2019 Meeting</h4>
+<p>Our next <strong>StatChat has been rescheduled</strong> due to the <a href="https://www.nytimes.com/2019/01/28/us/polar-vortex-cold-weather.html">upcoming polar vortex</a>. The new date will be Wedesday February 13, 2019 from 6:00–8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:</p>
+<ul>
+<li><strong>6:00–6:30 Settle In &amp; Eat</strong></li>
+<li><strong>6:30–7:15 Material Potluck:</strong> Paul Roback from St. Olaf will share some teaching materials they use in their data science course with the group. The materials can be accessed from Paul’s <a href="https://github.com/proback/MississippiJuries">github site (here)</a>.</li>
+<li><strong>7:15–8:00 Book Club Discussion:</strong> Danny Kaplan and Milo Schield will lead a discussion of <em>The Book of Why</em> (see below for more information). During this StatChat we will discuss:
+<ul>
+<li>Introduction (pp. 1–21);</li>
+<li>Chapters 1 (pp. 23–51); and</li>
+<li>Chapter 2 (pp. 52–91)</li>
+</ul></li>
+</ul>
+<p><strong>Resources</strong></p>
+<ul>
+<li><a href="https://github.com/proback/MississippiJuries">Paul’s materials</a> on discrimination in Mississippi jury selection</li>
+<li><a href="https://zief0002.github.io/statchat/book-of-why.html">Danny’s slides</a> on the <em>Book of Why</em></li>
+</ul>
+<p><strong>Book Club 2019</strong></p>
+<p>During the 2019 spring semester, StatChat will be reading and discussing <em>The Book of Why: The New Science of Cause and Effect</em> by Judea Pearl and Dana Mackenzie.</p>
+<blockquote>
+<p>“Correlation is not causation.” This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality–the study of cause and effect–on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl’s work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs The Book of Why.</p>
+</blockquote>
+<p>Below are the links for ordering the book from Amazon and Barnes and Noble:</p>
+<ul>
+<li><a href="https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&amp;qid=1542294083&amp;sr=8-1&amp;keywords=book+of+why">Order from Amazon</a></li>
+<li><a href="https://www.barnesandnoble.com/w/the-book-of-why-judea-pearl/1127061565?ean=9780465097609#/">Order from Barnes and Noble</a></li>
+</ul>
+<p>Also, there is an unedited working copy of the introduction and first two chapters available online at:</p>
+<ul>
+<li><a href="http://bayes.cs.ucla.edu/WHY/">Working copy</a></li>
+</ul>
 <p><br /><br /></p>
 </div>
 </div>
@@ -320,7 +451,7 @@ $(document).ready(function () {
 <li><strong>Topic:</strong> Recent U.S. Supreme Court Finding on Statistical Significance</li>
 </ul>
 <blockquote>
-<p>“Supreme Court decisions famously reflect political divides, but they also are a product of the multiple simultaneous objectives of the legal system: creating incentives for honest behavior, distributing risk and cost among competing parties, and maintaining predictability, among others. Statistical theory was created for a completely different set of objectives, of which a major one is supporting an idealized scientific process of nonpartisan, disinterested investigation. The Matrixx case inhabits a domain where both sets of objectives apply: the desire for informed scientific judgment and the exigencies and conflicts of civic life. Whenever multiple objectives are involved, it’s likely that not all of the objectives will be fully realized. Or, to quote Dickens’s Mr. Bumble,”The law is an ass.&quot; The question is whether statistics is likely to be any less so when dealing with complex matters of allocation and decision-making. I’ll discuss in particular the extent to which the canonical set of topics covered in university-level statistics education is oriented toward supporting quantitatively sophisticated, effective decision making in the civic domain.</p>
+<p>“Supreme Court decisions famously reflect political divides, but they also are a product of the multiple simultaneous objectives of the legal system: creating incentives for honest behavior, distributing risk and cost among competing parties, and maintaining predictability, among others. Statistical theory was created for a completely different set of objectives, of which a major one is supporting an idealized scientific process of nonpartisan, disinterested investigation. The Matrixx case inhabits a domain where both sets of objectives apply: the desire for informed scientific judgment and the exigencies and conflicts of civic life. Whenever multiple objectives are involved, it’s likely that not all of the objectives will be fully realized. Or, to quote Dickens’s Mr. Bumble,”The law is an ass." The question is whether statistics is likely to be any less so when dealing with complex matters of allocation and decision-making. I’ll discuss in particular the extent to which the canonical set of topics covered in university-level statistics education is oriented toward supporting quantitatively sophisticated, effective decision making in the civic domain.</p>
 </blockquote>
 <p><br /><br /></p>
 </div>
@@ -328,7 +459,7 @@ $(document).ready(function () {
 <div id="season-year-4" class="section level2">
 <h2>2010–2011 Season (Year 4)</h2>
 <p><br /></p>
-<div id="sept.28-2010" class="section level4">
+<div id="sept.-28-2010" class="section level4">
 <h4>Sept. 28, 2010</h4>
 <ul>
 <li><strong>Journal Club:</strong>
@@ -347,7 +478,7 @@ $(document).ready(function () {
 </ul>
 <p><br /></p>
 </div>
-<div id="oct.26-2010" class="section level4">
+<div id="oct.-26-2010" class="section level4">
 <h4>Oct. 26, 2010</h4>
 <ul>
 <li><strong>Journal Club:</strong> Kuiper, S., &amp; Collins, L. (2009) <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/October/games.pdf">Guided labs that introduce statistical techniques used in research from multiple disciplines</a>. <em>The American Statistician, 63</em>(4), 343–347.</li>
@@ -368,7 +499,7 @@ $(document).ready(function () {
 </blockquote>
 <p><br /></p>
 </div>
-<div id="nov.30-2010" class="section level4">
+<div id="nov.-30-2010" class="section level4">
 <h4>Nov. 30, 2010</h4>
 <ul>
 <li><strong>Speaker:</strong> Bob delMas (University of Minnesota, Educational Psychology)</li>
@@ -396,7 +527,7 @@ $(document).ready(function () {
 </ul>
 <p><br /></p>
 </div>
-<div id="jan.25-2011" class="section level4">
+<div id="jan.-25-2011" class="section level4">
 <h4>Jan. 25, 2011</h4>
 <ul>
 <li><p><strong>Journal Club:</strong> Seife, C. (2010). <em>Proofiness: The dark art of mathematical deception.</em> New York: Viking.</p></li>
@@ -408,7 +539,7 @@ $(document).ready(function () {
 </blockquote>
 <p><br /></p>
 </div>
-<div id="feb.22-2011" class="section level4">
+<div id="feb.-22-2011" class="section level4">
 <h4>Feb. 22, 2011</h4>
 <ul>
 <li><p><strong>Journal Club:</strong> Cobb, G. (2007). <a href="https://escholarship.org/uc/item/6hb3k0nz">The introductory statistics course: A Ptolemaic curriculum?</a> <em>Technology Innovations in Statistics Education, 1</em>(1).</p></li>
@@ -420,7 +551,7 @@ $(document).ready(function () {
 </blockquote>
 <p><br /></p>
 </div>
-<div id="mar.29-2011" class="section level4">
+<div id="mar.-29-2011" class="section level4">
 <h4>Mar. 29, 2011</h4>
 <ul>
 <li><p><strong>Journal Club:</strong> Bellos, A. (2010). <a href="https://www.macalester.edu/~kaplan/statchat/AY2010/March/Ch10-Bellos-Euclid.pdf">Situation normal</a>. In, <em>Here’s looking at Euclid: From counting ants to games of chance - An awe-inspiring journey through the world of numbers</em> (pp. 246–265). New York: Free Press.</p></li>
