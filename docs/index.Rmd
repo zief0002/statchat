@@ -32,16 +32,21 @@ The April StatChat will be Wedesday April 24, 2019 from 6:00--8:00pm at Macalest
 
 - **6:00&ndash;6:30 Settle In &amp; Eat**
 
-- **6:30&ndash;7:15 Material Potluck:** [Amelia McNamara](http://www.amelia.mn/) (St. Thomas) will present on her "Handmade Data Viz" activity, which she has used in several settings; once with introductory-level undergraduates in a *Communicating with Data* course, and once at a conference for journalists. Amelia will show how she scaffolded the activity with inspiring handmade visualizations from people like [Mona Chalabi](https://monachalabi.com/), [Giorgia Lupi](http://giorgialupi.com/), [Stefanie Posavec](http://www.stefanieposavec.com/), and others. Then she will show some work created by her students. Time permitting, we can try a little visualization ourselves! (Amelia even offered to bring craft supplies.)<br /><br />Relatedly, you may also be interested in Giorgia and Stefanie's book, *Dear Data*, which collects a year's worth of hand drawn data visualizations that the two authors would send to each other via postcards [(Dear Data Website)](http://www.dear-data.com/theproject).
-
-    + Lupi, G., &amp; Posavec, S. (2016). [Dear data](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/). New York: Princeton Architectural Press.
-    
-  <br />They also just published a second collaboration, *Observe, Collect, Draw!: A Visual Journal*, which is described as a guided journal of self-examination while simultaneously functioning as a mini-course in information design:
-  
-    + Lupi, G., &amp; Posavec, S. (2016). [Observe, collect, draw!: A visual journal](https://www.amazon.com/gp/product/1616897147/ref=dbs_a_def_rwt_bibl_vppi_i1). New York: Princeton Architectural Press.<br /><br />
+- **6:30&ndash;7:15 Material Potluck:** [Amelia McNamara](http://www.amelia.mn/) (St. Thomas) will present on her "Handmade Data Viz" activity, which she has used in several settings; once with introductory-level undergraduates in a *Communicating with Data* course, and once at a conference for journalists. Amelia will show how she scaffolded the activity with inspiring handmade visualizations from people like [Mona Chalabi](https://monachalabi.com/), [Giorgia Lupi](http://giorgialupi.com/), [Stefanie Posavec](http://www.stefanieposavec.com/), and others. Then she will show some work created by her students. Time permitting, we can try a little visualization ourselves! (Amelia even offered to bring craft supplies.)<br /><br />
 
 - **7:15&ndash;8:00 Book Club Discussion:** TBA [(Book of Why)](#book_club)
 
+<br />
+
+#### Resources
+
+Here are some resources related to Amelia's talk that you may find of interest. 
+
+- [Dear Data book](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/): Giorgia Lupi and Stefanie Posavec's book collects a year's worth of hand drawn data visualizations that the two authors would send to each other via postcards.
+- [Dear Data Website](http://www.dear-data.com/theproject)
+- [Observe, Collect, Draw!: A Visual Journal](https://www.amazon.com/gp/product/1616897147/ref=dbs_a_def_rwt_bibl_vppi_i1): Giorgia and Stefanie also recently published a second collaboration which is described as a guided journal of self-examination while simultaneously functioning as a mini-course in information design:
+- [Mona Chalabi's Instagram page](https://www.instagram.com/monachalabi/)
+  
 
 <br />
 <hr />
