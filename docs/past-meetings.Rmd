@@ -53,6 +53,45 @@ Also, there is an unedited working copy of the introduction and first two chapte
 
 - [Working copy](http://bayes.cs.ucla.edu/WHY/)
 
+<br />
+
+#### March 27, 2019 Meeting
+
+Our next StatChat is Wedesday March 27, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
+
+- **6:00&ndash;6:30 Settle In &amp; Eat**
+
+- **6:30&ndash;7:15 Material Potluck:** [Ann Brearley](https://directory.sph.umn.edu/bio/sph-a-z/ann-brearley) and [Laura Le](https://www.med.umn.edu/bio/sph-a-z/laura-le) will present on the updated “The Islands”, a virtual world developed by Dr. Michael Bulmer at the University of Queensland. They will bring a guided activity for you to explore “The Islands” and also describe the various ways "The Islands" have been used by us and others at the University of Minnesota, Biostatistics Division. _Be sure to bring your computer so you travel to the "The Islands" from the comforts of Macalester College._ <br /><br />You may also want to read the following article for some background on "The Islands": 
+
+    + Bulmer, M., &amp; Haladyn, J. K. (2011). [Life on an island: A virtual population to support student projects in statistics.](http://escholarship.org/uc/item/2q0740hv) *Technology Innovations in Statistics Education, 5*(1).<br /><br />
+
+- **7:15&ndash;8:00:** TBA
+
+<br />
+
+#### April 24, 2019 Meeting
+
+The April StatChat will be Wedesday April 24, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
+
+- **6:00&ndash;6:30 Settle In &amp; Eat**
+
+- **6:30&ndash;7:15 Material Potluck:** [Amelia McNamara](http://www.amelia.mn/) (St. Thomas) will present on her "Handmade Data Viz" activity, which she has used in several settings; once with introductory-level undergraduates in a *Communicating with Data* course, and once at a conference for journalists. Amelia will show how she scaffolded the activity with inspiring handmade visualizations from people like [Mona Chalabi](https://monachalabi.com/), [Giorgia Lupi](http://giorgialupi.com/), [Stefanie Posavec](http://www.stefanieposavec.com/), and others. Then she will show some work created by her students. Time permitting, we can try a little visualization ourselves! (Amelia even offered to bring craft supplies.)<br /><br />
+
+- **7:15&ndash;8:00 Book Club Discussion:** TBA [(Book of Why)](#book_club)
+
+<br />
+
+**Resources**
+
+Here are some resources related to Amelia's talk that you may find of interest. 
+
+- [Dear Data book](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/): Giorgia Lupi and Stefanie Posavec's book collects a year's worth of hand drawn data visualizations that the two authors would send to each other via postcards.
+- [Dear Data Website](http://www.dear-data.com/theproject)
+- [Observe, Collect, Draw!: A Visual Journal](https://www.amazon.com/gp/product/1616897147/ref=dbs_a_def_rwt_bibl_vppi_i1): Giorgia and Stefanie also recently published a second collaboration which is described as a guided journal of self-examination while simultaneously functioning as a mini-course in information design:
+- [Mona Chalabi's Instagram page](https://www.instagram.com/monachalabi/)
+  
+
+
 <br /><br />
 
 
