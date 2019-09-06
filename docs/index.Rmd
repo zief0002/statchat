@@ -7,49 +7,47 @@ author: "An informal but informative get-together of local statistics educators 
 
 <br /><br />
 
-## Upcoming Meeting: March 27, 2019
+## Upcoming Meeting: September 26, 2019
 
-Our next StatChat is Wedesday March 27, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
+Our next StatChat is Thursday September 26, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 301). The agenda for the meeting will include:
 
 - **6:00&ndash;6:30 Settle In &amp; Eat**
 
-- **6:30&ndash;7:15 Material Potluck:** [Ann Brearley](https://directory.sph.umn.edu/bio/sph-a-z/ann-brearley) and [Laura Le](https://www.med.umn.edu/bio/sph-a-z/laura-le) will present on the updated “The Islands”, a virtual world developed by Dr. Michael Bulmer at the University of Queensland. They will bring a guided activity for you to explore “The Islands” and also describe the various ways "The Islands" have been used by us and others at the University of Minnesota, Biostatistics Division. _Be sure to bring your computer so you travel to the "The Islands" from the comforts of Macalester College._ <br /><br />You may also want to read the following article for some background on "The Islands": 
+- **6:30&ndash;7:45 Guest Speaker:** [Tim Erickson](https://www.eeps.com/tim.html) will present on the using the [Common Online Data Analysis Platform (CODAP)](https://codap.concord.org/). _Be sure to bring your computer as this will be an interactive session._
 
-    + Bulmer, M., &amp; Haladyn, J. K. (2011). [Life on an island: A virtual population to support student projects in statistics.](http://escholarship.org/uc/item/2q0740hv) *Technology Innovations in Statistics Education, 5*(1).<br /><br />
+- **7:45&ndash;8:00:** Discussion, wrap-up, and future StatChats
 
-- **7:15&ndash;8:00:** TBA
+We hope to see you there!  If you plan to attend, [please RSVP by signing up to bring food or beverage to share](https://docs.google.com/spreadsheets/d/1Y09XZuKQyMPYnLZKgNV8cs2Bu3wY6Vr-Q1ZvM_8lUpE/edit#gid=0).  And please spread the word among any colleagues that may be interested in the night's topics.
 
-We hope to see you there!  If you plan to attend, [please RSVP by signing up to bring food or beverage to share](https://docs.google.com/spreadsheets/d/1q4TlhUeY2INX64WBAyUIUniv_70Nmfs3DACRXezDbpQ/edit#gid=0).  And please spread the word among any colleagues that may be interested in the night's topics.
+<!-- **Resources** -->
 
-**Resources**
-
-- [Laura &amp; Ann's materials](https://tinyurl.com/StatChat-IslandProject) on The Islands
+<!-- - [Laura &amp; Ann's materials](https://tinyurl.com/StatChat-IslandProject) on The Islands -->
 
 <br />
 <hr />
 <br />
 
 
-## April 24, 2019 Meeting
+## October 30, 2019 Meeting
 
-The April StatChat will be Wedesday April 24, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 243). The agenda for the meeting will include:
+The October StatChat will be Wedesday October 30, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice TBA). The agenda for the meeting will include:
 
 - **6:00&ndash;6:30 Settle In &amp; Eat**
 
-- **6:30&ndash;7:15 Material Potluck:** [Amelia McNamara](http://www.amelia.mn/) (St. Thomas) will present on her "Handmade Data Viz" activity, which she has used in several settings; once with introductory-level undergraduates in a *Communicating with Data* course, and once at a conference for journalists. Amelia will show how she scaffolded the activity with inspiring handmade visualizations from people like [Mona Chalabi](https://monachalabi.com/), [Giorgia Lupi](http://giorgialupi.com/), [Stefanie Posavec](http://www.stefanieposavec.com/), and others. Then she will show some work created by her students. Time permitting, we can try a little visualization ourselves! (Amelia even offered to bring craft supplies.)<br /><br />
+- **6:30&ndash;7:45 Guest Speaker:** [Kris Gorman](https://cei.umn.edu/staff/kris-gorman) from the *Center for Educational Innovation* at the University of Minnesota will discuss the nebulous balance between breadth and depth in statistics education.<br /><br />
 
-- **7:15&ndash;8:00 Book Club Discussion:** TBA [(Book of Why)](#book_club)
+- **7:45&ndash;8:00:** Discussion, wrap-up, and goodbyes
 
-<br />
+<!-- <br /> -->
 
-#### Resources
+<!-- #### Resources -->
 
-Here are some resources related to Amelia's talk that you may find of interest. 
+<!-- Here are some resources related to Amelia's talk that you may find of interest.  -->
 
-- [Dear Data book](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/): Giorgia Lupi and Stefanie Posavec's book collects a year's worth of hand drawn data visualizations that the two authors would send to each other via postcards.
-- [Dear Data Website](http://www.dear-data.com/theproject)
-- [Observe, Collect, Draw!: A Visual Journal](https://www.amazon.com/gp/product/1616897147/ref=dbs_a_def_rwt_bibl_vppi_i1): Giorgia and Stefanie also recently published a second collaboration which is described as a guided journal of self-examination while simultaneously functioning as a mini-course in information design:
-- [Mona Chalabi's Instagram page](https://www.instagram.com/monachalabi/)
+<!-- - [Dear Data book](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/): Giorgia Lupi and Stefanie Posavec's book collects a year's worth of hand drawn data visualizations that the two authors would send to each other via postcards. -->
+<!-- - [Dear Data Website](http://www.dear-data.com/theproject) -->
+<!-- - [Observe, Collect, Draw!: A Visual Journal](https://www.amazon.com/gp/product/1616897147/ref=dbs_a_def_rwt_bibl_vppi_i1): Giorgia and Stefanie also recently published a second collaboration which is described as a guided journal of self-examination while simultaneously functioning as a mini-course in information design: -->
+<!-- - [Mona Chalabi's Instagram page](https://www.instagram.com/monachalabi/) -->
   
 
 <br />
@@ -57,22 +55,11 @@ Here are some resources related to Amelia's talk that you may find of interest.
 <br />
 
 
+## December 04, 2019 StatChat Social
+
+The December StatChat will be Wedesday December 04, 2019 from 6:00--8:00pm and will be a StatChat social!  We're planning an informal meet-up outside the classroom to debrief & celebrate our semesters.
 
 
-## Book Club 2019 {#book_club}
-
-During the 2019 spring semester, StatChat will be reading and discussing *The Book of Why: The New Science of Cause and Effect* by Judea Pearl and Dana Mackenzie.
-
-> "Correlation is not causation." This mantra, chanted by scientists for more than a century, has led to a virtual prohibition on causal talk. Today, that taboo is dead. The causal revolution, instigated by Judea Pearl and his colleagues, has cut through a century of confusion and established causality--the study of cause and effect--on a firm scientific basis. His work explains how we can know easy things, like whether it was rain or a sprinkler that made a sidewalk wet; and how to answer hard questions, like whether a drug cured an illness. Pearl's work enables us to know not just whether one thing causes another: it lets us explore the world that is and the worlds that could have been. It shows us the essence of human thought and key to artificial intelligence. Anyone who wants to understand either needs The Book of Why.
-
-Below are the links for ordering the book from Amazon and Barnes and Noble:
-
-- [Order from Amazon](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1?ie=UTF8&qid=1542294083&sr=8-1&keywords=book+of+why)
-- [Order from Barnes and Noble](https://www.barnesandnoble.com/w/the-book-of-why-judea-pearl/1127061565?ean=9780465097609#/)
-
-Also, there is an unedited working copy of the introduction and first two chapters available online at:
-
-- [Working copy](http://bayes.cs.ucla.edu/WHY/)
 
 
 
