@@ -7,52 +7,30 @@ author: "An informal but informative get-together of local statistics educators 
 
 <br /><br />
 
-## Upcoming Meeting: September 26, 2019
+## Upcoming Meeting: October 30, 2019 Meeting
 
-Our next StatChat is Thursday September 26, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 301). The agenda for the meeting will include:
+Our next StatChat is Wednesday October 30, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice 250). The agenda for the meeting will include:
 
 - **6:00&ndash;6:30 Settle In &amp; Eat**
 
-- **6:30&ndash;7:45 Guest Speaker:** [Tim Erickson](https://www.eeps.com/tim.html) will present on the using the [Common Online Data Analysis Platform (CODAP)](https://codap.concord.org/). _Be sure to bring your computer as this will be an interactive session._
+- **6:30&ndash;7:45 Guest Speaker:** [Kris Gorman](https://cei.umn.edu/staff/kris-gorman) from the *Center for Educational Innovation* at the University of Minnesota will discuss the nebulous balance between breadth and depth in statistics education.<br />
 
-- **7:45&ndash;8:00:** Discussion, wrap-up, and future StatChats
+  *Abstract:*
+  In order to help students retain information long term and transfer that knowledge to new situations, there's research to suggest that rather than cover everything (i.e. provide full breadth), it's better to cover some things more thoroughly (i.e. provide depth).  Kris Gorman will share findings about depth vs breadth and a few examples of how instructors at UMN have altered courses to incorporate more depth.  There will be time for discussion about what this might mean for choices in our own teaching. 
+
+- **7:45&ndash;8:00:** Discussion, wrap-up, and next StatChat (We need to pick  place to have our first ever StatChat social.)
 
 We hope to see you there!  If you plan to attend, [please RSVP by signing up to bring food or beverage to share](https://docs.google.com/spreadsheets/d/1Y09XZuKQyMPYnLZKgNV8cs2Bu3wY6Vr-Q1ZvM_8lUpE/edit#gid=0).  And please spread the word among any colleagues that may be interested in the night's topics.
 
-<!-- **Resources** -->
+**Resources**
 
-<!-- - [Laura &amp; Ann's materials](https://tinyurl.com/StatChat-IslandProject) on The Islands -->
-
-<br />
-<hr />
-<br />
-
-
-## October 30, 2019 Meeting
-
-The October StatChat will be Wedesday October 30, 2019 from 6:00--8:00pm at Macalester College (Olin-Rice TBA). The agenda for the meeting will include:
-
-- **6:00&ndash;6:30 Settle In &amp; Eat**
-
-- **6:30&ndash;7:45 Guest Speaker:** [Kris Gorman](https://cei.umn.edu/staff/kris-gorman) from the *Center for Educational Innovation* at the University of Minnesota will discuss the nebulous balance between breadth and depth in statistics education.<br /><br />
-
-- **7:45&ndash;8:00:** Discussion, wrap-up, and goodbyes
-
-<!-- <br /> -->
-
-<!-- #### Resources -->
-
-<!-- Here are some resources related to Amelia's talk that you may find of interest.  -->
-
-<!-- - [Dear Data book](https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/): Giorgia Lupi and Stefanie Posavec's book collects a year's worth of hand drawn data visualizations that the two authors would send to each other via postcards. -->
-<!-- - [Dear Data Website](http://www.dear-data.com/theproject) -->
-<!-- - [Observe, Collect, Draw!: A Visual Journal](https://www.amazon.com/gp/product/1616897147/ref=dbs_a_def_rwt_bibl_vppi_i1): Giorgia and Stefanie also recently published a second collaboration which is described as a guided journal of self-examination while simultaneously functioning as a mini-course in information design: -->
-<!-- - [Mona Chalabi's Instagram page](https://www.instagram.com/monachalabi/) -->
-  
+- Luckie, D. B., Aubry, J. R., Marengo, B. J., Rivkin, A. M., Foos, L. A., &amp; Maleszewski, J. J. (2012). [Less teaching, more learning: 10-yr study supports increasing student learning through less coverage and more inquiry.](https://www.physiology.org/doi/full/10.1152/advan.00017.2012) *CAdvances in Physiology Education, 36*(4), 325&ndash;335. doi:10.1152/advan.00017.2012
+- Schwartz, M. S., Sadler, P. M., Sonnerts, G., &amp; Tai, R. H. (2008). [Depth versus breadth: How content coverage in high school science courses relates to later success in college science coursework.](https://www.cfa.harvard.edu/smg/ficss/research/articles/SE_Depth_versus.pdf) *Science Education, 93*(5), 798&ndash;826. doi:10.1002/sce.20328
 
 <br />
 <hr />
 <br />
+
 
 
 ## December 04, 2019 StatChat Social
